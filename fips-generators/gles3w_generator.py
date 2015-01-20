@@ -119,7 +119,7 @@ void gles3Init()
 ''')
 
 #-------------------------------------------------------------------------------
-def generate(directory, name, url) :
+def generate(directory, name) :
     print("GENERATING GLES3W")
     selfPath = directory + name + '.py'
     hdrPath  = directory + name + '.h'
