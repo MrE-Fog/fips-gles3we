@@ -1,4 +1,4 @@
 [submodule "gles3w"]
     path = gles3w
-    url = https://github.com/djg/gl3w
+    url = https://github.com/djg/gl3w.git
     branch = gles3w
