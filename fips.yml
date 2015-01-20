@@ -1,6 +1,8 @@
 # fips-gles3w
 ---
+
+# not tested yet
 exports:
-    header-dirs: [ gl3w/include ]
+    header-dirs: [ include ]
     modules :
-        gles3w: .
+        gles3w: include/GLES3

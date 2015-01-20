@@ -1,3 +1,9 @@
+.*.swp
+include/GLES3/gl3.h
+include/GLES3/gl3platform.h
+include/GLES3/gles3w.cc
+include/GLES3/gles3w.h
+include/KHR/khrplatform.h
 #>fips
 # this area is managed by fips, do not edit
 .fips-*
